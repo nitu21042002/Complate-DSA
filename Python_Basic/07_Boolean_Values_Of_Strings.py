@@ -1,0 +1,1 @@
+#Write a program to check the boolean value of different strings.
