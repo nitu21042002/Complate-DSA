@@ -1,3 +1,5 @@
-a=10
-b=20
-print(f"Sum of a and b is {a+b}")
+n=5
+for i in range(n+1):
+  for j in range(i):
+    print(n-j,end=" ")
+  print()
