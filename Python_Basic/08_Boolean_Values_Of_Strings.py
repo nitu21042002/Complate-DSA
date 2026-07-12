@@ -1,0 +1,11 @@
+#Write a program to check the boolean value of different strings.
+print(bool(""))
+print(bool(" "))
+print(bool("Nitu yadav"))
+print(bool(0))
+print(bool([]))
+print(bool({}))
+print(bool(set()))
+print(bool(0j))
+print(bool(False))
+print(bool(True))
